@@ -7,4 +7,4 @@
 
 ✔ This project is for educational purpose only. 8 TCs are available for practice.
 
-↑ Free host: 000webhost.com (login form).
+↑ Free host: 000webhost.com (log in form).
